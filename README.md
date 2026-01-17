@@ -3,3 +3,4 @@
 This MC Neoforge mod is based on the prototypes, inspired by the 'Forest of Light' project of the 10th anniversary project 'We Can Be Anything' of the nonprofit programming education website 'playentry.org'.
 このモードは、韓国の非営利プログラミング教育サイト「エントリー」の10周年記念プロジェクト「私たちは何にでもなれる」の「光の森」ギャラリーをモチーフに、そのプロトタイプ作品をベースに作った創作バイオームモードです。
 Supported Language: English(US), Korean, Japanese
+Client: Neoforge 1.21.8
